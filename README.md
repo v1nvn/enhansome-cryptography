@@ -1,4 +1,4 @@
-# Awesome Cryptography [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 466,455 | 🐛 75 | 📅 2026-05-05 with stars
+# Awesome Cryptography [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 466,794 | 🐛 76 | 📅 2026-05-05 with stars
 
 <p align="center">
   <img src="https://github.com/sobolevn/awesome-cryptography/blob/master/awesome-crypto.png?raw=true" alt="Awesome Cryptography">
@@ -140,9 +140,9 @@ A curated list of cryptography resources and links.
 
 ### Standalone
 
-* [certbot](https://github.com/certbot/certbot) ⭐ 33,036 | 🐛 189 | 🌐 Python | 📅 2026-05-15 - Previously the Let's Encrypt Client, is EFF's tool to obtain certs from Let's Encrypt, and (optionally) auto-enable HTTPS on your server. It can also act as a client for any other CA that uses the ACME protocol.
-* [sops](https://github.com/mozilla/sops) ⭐ 21,782 | 🐛 423 | 🌐 Go | 📅 2026-05-15 - sops is an editor of encrypted files that supports YAML, JSON and BINARY formats and encrypts with AWS KMS, GCP KMS, Azure Key Vault and PGP.
-* [cryptomator](https://github.com/cryptomator/cryptomator) ⭐ 15,111 | 🐛 293 | 🌐 Java | 📅 2026-05-13 - Multi-platform transparent client-side encryption of your files in the cloud.
+* [certbot](https://github.com/certbot/certbot) ⭐ 33,034 | 🐛 189 | 🌐 Python | 📅 2026-05-15 - Previously the Let's Encrypt Client, is EFF's tool to obtain certs from Let's Encrypt, and (optionally) auto-enable HTTPS on your server. It can also act as a client for any other CA that uses the ACME protocol.
+* [sops](https://github.com/mozilla/sops) ⭐ 21,793 | 🐛 419 | 🌐 Go | 📅 2026-05-15 - sops is an editor of encrypted files that supports YAML, JSON and BINARY formats and encrypts with AWS KMS, GCP KMS, Azure Key Vault and PGP.
+* [cryptomator](https://github.com/cryptomator/cryptomator) ⭐ 15,116 | 🐛 293 | 🌐 Java | 📅 2026-05-13 - Multi-platform transparent client-side encryption of your files in the cloud.
 * [blackbox](https://github.com/StackExchange/blackbox) ⚠️ Archived - safely store secrets in Git/Mercurial/Subversion.
 * [Nipe](https://github.com/GouveaHeitor/nipe) ⭐ 2,329 | 🐛 11 | 🌐 Perl | 📅 2026-05-08 - Nipe is a script to make Tor Network your default gateway.
 * [ironssh](https://github.com/IronCoreLabs/ironssh) ⚠️ Archived - End-to-end encrypt transferred files using sftp/scp and selectively share with others. Automatic key management works with any SSH server. Encrypted files are gpg compatible.
@@ -156,7 +156,7 @@ A curated list of cryptography resources and links.
 
 #### Git
 
-* [git-crypt](https://github.com/AGWA/git-crypt) ⭐ 9,658 | 🐛 125 | 🌐 C++ | 📅 2025-09-24 - Transparent file encryption in git.
+* [git-crypt](https://github.com/AGWA/git-crypt) ⭐ 9,663 | 🐛 125 | 🌐 C++ | 📅 2025-09-24 - Transparent file encryption in git.
 * [git-secret](https://sobolevn.github.io/git-secret/) - Bash-tool to store your private data inside a git repository.
 
 ### Playgrounds
@@ -167,18 +167,18 @@ A curated list of cryptography resources and links.
 
 ### C
 
-* [OpenSSL](https://github.com/openssl/openssl) ⭐ 30,157 | 🐛 1,621 | 🌐 C | 📅 2026-05-14 - TLS/SSL and crypto library.
+* [OpenSSL](https://github.com/openssl/openssl) ⭐ 30,159 | 🐛 1,628 | 🌐 C | 📅 2026-05-15 - TLS/SSL and crypto library.
 * [libsodium](https://github.com/jedisct1/libsodium) ⭐ 13,675 | 🐛 1 | 🌐 C | 📅 2026-05-04 - Modern and easy-to-use crypto library.
-* [xxHash](https://github.com/Cyan4973/xxHash) ⭐ 11,015 | 🐛 33 | 🌐 C | 📅 2026-04-13 - Extremely fast hash algorithm.
+* [xxHash](https://github.com/Cyan4973/xxHash) ⭐ 11,016 | 🐛 34 | 🌐 C | 📅 2026-04-13 - Extremely fast hash algorithm.
 * [tiny-AES128-C](https://github.com/kokke/tiny-AES128-C) ⭐ 4,954 | 🐛 34 | 🌐 C | 📅 2024-10-04 - Small portable AES128 in C.
-* [wolfSSL](https://github.com/wolfSSL/wolfssl) ⭐ 2,823 | 🐛 122 | 🌐 C | 📅 2026-05-14 - Small, fast, portable implementation of TLS/SSL for embedded devices to the cloud.
+* [wolfSSL](https://github.com/wolfSSL/wolfssl) ⭐ 2,823 | 🐛 123 | 🌐 C | 📅 2026-05-14 - Small, fast, portable implementation of TLS/SSL for embedded devices to the cloud.
 * [crypto-algorithms](https://github.com/B-Con/crypto-algorithms) ⭐ 2,018 | 🐛 33 | 🌐 C | 📅 2020-12-28 - Basic implementations of standard cryptography algorithms, like AES and SHA-1.
 * [themis](https://github.com/cossacklabs/themis) ⭐ 1,963 | 🐛 31 | 🌐 C | 📅 2026-04-24 - High level crypto library for storing data (AES), secure messaging (ECC + ECDSA / RSA + PSS + PKCS#7) and session-oriented, forward secrecy data exchange (ECDH key agreement, ECC & AES encryption). Ported on many languages and platforms, suitable for client-server infastructures.
-* [libtomcrypt](https://github.com/libtom/libtomcrypt) ⭐ 1,764 | 🐛 57 | 🌐 C | 📅 2026-05-07 - Fairly comprehensive, modular and portable cryptographic toolkit.
-* [RHash](https://github.com/rhash/RHash) ⭐ 712 | 🐛 41 | 🌐 C | 📅 2026-04-11 - Great utility for computing hash sums.
+* [libtomcrypt](https://github.com/libtom/libtomcrypt) ⭐ 1,765 | 🐛 57 | 🌐 C | 📅 2026-05-07 - Fairly comprehensive, modular and portable cryptographic toolkit.
+* [RHash](https://github.com/rhash/RHash) ⭐ 713 | 🐛 42 | 🌐 C | 📅 2026-04-11 - Great utility for computing hash sums.
 * [XKCP](https://github.com/XKCP/XKCP) ⭐ 652 | 🐛 17 | 🌐 C | 📅 2025-12-19 — is a repository that gathers different free and open-source implementations of the cryptographic schemes defined by the Keccak team.
 * [libkcapi](https://github.com/smuellerDD/libkcapi) ⭐ 195 | 🐛 5 | 🌐 C | 📅 2026-05-12 - Linux Kernel Crypto API User Space Interface Library.
-* [nettle](https://github.com/gnutls/nettle) ⭐ 73 | 🐛 0 | 🌐 C | 📅 2026-05-12 - is a cryptographic library that is designed to fit easily in more or less any context: In crypto toolkits for object-oriented languages (C++, Python, Pike, ...), in applications like LSH or GNUPG, or even in kernel space.
+* [nettle](https://github.com/gnutls/nettle) ⭐ 73 | 🐛 0 | 🌐 C | 📅 2026-05-15 - is a cryptographic library that is designed to fit easily in more or less any context: In crypto toolkits for object-oriented languages (C++, Python, Pike, ...), in applications like LSH or GNUPG, or even in kernel space.
 * [libVES.c](https://github.com/vesvault/libVES.c) ⭐ 40 | 🐛 0 | 🌐 C | 📅 2024-12-11 - End-to-end encrypted sharing via cloud repository, secure recovery through a viral network of friends in case of key loss.
 * [milagro-crypto-c](https://github.com/apache/incubator-milagro-crypto-c) ⚠️ Archived - Small, self-contained and fast open source crypto library. It supports RSA, ECDH, ECIES, ECDSA, AES-GCM, SHA2, SHA3 and Pairing-Based Cryptography.
 * [libgcrypt](http://directory.fsf.org/wiki/Libgcrypt) - Cryptographic library developed as a separated module of GnuPG.
@@ -189,7 +189,7 @@ A curated list of cryptography resources and links.
 ### C++
 
 * [cryptopp](https://github.com/weidai11/cryptopp) ⭐ 5,453 | 🐛 83 | 🌐 C++ | 📅 2026-02-27 - Crypto++ Library is a free C++ class library of cryptographic schemes.
-* [s2n](https://github.com/awslabs/s2n) ⭐ 4,718 | 🐛 313 | 🌐 C | 📅 2026-05-15 - Implementation of the TLS/SSL protocols.
+* [s2n](https://github.com/awslabs/s2n) ⭐ 4,719 | 🐛 313 | 🌐 C | 📅 2026-05-15 - Implementation of the TLS/SSL protocols.
 * [=nil; Crypto3](https://github.com/NilFoundation/crypto3) ⚠️ Archived - Modern Cryptography Suite in C++17 (complete applied cryptography suite starting with block ciphers and ending with threshold cryptography, zk proof systems, etc).
 * [HElib](https://github.com/shaih/HElib) ⭐ 55 | 🐛 0 | 📅 2023-10-17 - Software library that implements homomorphic encryption (HE).
 * [Botan](https://botan.randombit.net/) - Cryptography library written in `C++20`.
@@ -251,7 +251,7 @@ A curated list of cryptography resources and links.
 
 ### Haskell
 
-* [cryptol](https://github.com/GaloisInc/cryptol) ⭐ 1,203 | 🐛 266 | 🌐 Haskell | 📅 2026-05-15 - The Language of Cryptography.
+* [cryptol](https://github.com/GaloisInc/cryptol) ⭐ 1,205 | 🐛 265 | 🌐 Haskell | 📅 2026-05-16 - The Language of Cryptography.
 * [HsOpenSSL](https://github.com/phonohawk/HsOpenSSL) ⚠️ Archived - OpenSSL binding for Haskel.
 * [scrypt](https://github.com/informatikr/scrypt) ⭐ 18 | 🐛 4 | 🌐 C | 📅 2023-12-12 - Haskell bindings to Colin Percival's scrypt implementation.
 * [Cryptography](http://hackage.haskell.org/packages/#cat:Cryptography) - Collaborative Hackage list.
@@ -269,7 +269,7 @@ A curated list of cryptography resources and links.
 * [sjcl](https://github.com/bitwiseshiftleft/sjcl) ⭐ 7,218 | 🐛 117 | 🌐 JavaScript | 📅 2026-03-18 - Stanford JavaScript Crypto Library.
 * [jsencrypt](https://github.com/travist/jsencrypt) ⭐ 6,797 | 🐛 143 | 🌐 JavaScript | 📅 2026-04-08 - JavaScript library to perform OpenSSL RSA Encryption, Decryption, and Key Generation.
 * [OpenPGP.js](https://github.com/openpgpjs/openpgpjs) ⭐ 5,947 | 🐛 38 | 🌐 JavaScript | 📅 2026-05-13 - OpenPGP implementation for JavaScript.
-* [forge](https://github.com/digitalbazaar/forge) ⭐ 5,291 | 🐛 456 | 🌐 JavaScript | 📅 2026-03-25 - Native implementation of TLS in JavaScript and tools to write crypto-based and network-heavy webapps.
+* [forge](https://github.com/digitalbazaar/forge) ⭐ 5,292 | 🐛 456 | 🌐 JavaScript | 📅 2026-03-25 - Native implementation of TLS in JavaScript and tools to write crypto-based and network-heavy webapps.
 * [closure-library](https://github.com/google/closure-library/tree/master/closure/goog/crypt) ⚠️ Archived - Google's common JavaScript library.
 * [jsrsasign](https://github.com/kjur/jsrsasign) ⭐ 3,372 | 🐛 36 | 🌐 HTML | 📅 2026-04-17 - The 'jsrsasign' (RSA-Sign JavaScript Library) is an opensource free cryptography library supporting RSA/RSAPSS/ECDSA/DSA signing/validation.
 * [jsThemis](https://github.com/cossacklabs/themis/wiki/Nodejs-Howto) ⭐ 1,963 | 🐛 31 | 🌐 C | 📅 2026-04-24 - JavaScript wrapper on Themis. High level crypto library for storing data (AES), secure messaging (ECC + ECDSA / RSA + PSS + PKCS#7) and session-oriented, forward secrecy data exchange (ECDH key agreement, ECC & AES encryption).
@@ -278,8 +278,8 @@ A curated list of cryptography resources and links.
 * [libsodium.js](https://github.com/jedisct1/libsodium.js) ⭐ 1,133 | 🐛 1 | 🌐 HTML | 📅 2026-05-12 - libsodium compiled to pure JavaScript, with convenient wrappers.
 * noble - high-security, easily auditable set of contained cryptographic libraries and tools. Zero dependencies each.
   * [noble-curves](https://github.com/paulmillr/noble-curves) ⭐ 904 | 🐛 3 | 🌐 TypeScript | 📅 2026-05-14 — elliptic curve cryptography, including Weierstrass, Edwards, Montgomery curves, pairings, hash-to-curve, poseidon hash, schnorr, secp256k1, ed25519, ed448, p521, bn254, bls12-381 and others. Also 4kb [noble-secp256k1](https://github.com/paulmillr/noble-secp256k1) ⭐ 873 | 🐛 1 | 🌐 TypeScript | 📅 2026-04-29, [noble-ed25519](https://github.com/paulmillr/noble-ed25519) ⭐ 505 | 🐛 0 | 🌐 TypeScript | 📅 2026-04-29
-  * [noble-hashes](https://github.com/paulmillr/noble-hashes) ⭐ 859 | 🐛 4 | 🌐 TypeScript | 📅 2026-05-12 — SHA2, SHA3, RIPEMD, BLAKE2/3, HMAC, HKDF, PBKDF2, Scrypt & Argon2id
-  * [noble-ciphers](https://github.com/paulmillr/noble-ciphers) ⭐ 384 | 🐛 1 | 🌐 TypeScript | 📅 2026-05-12 — cryptographic ciphers, including AES-SIV, Salsa20, ChaCha, Poly1305 and FF1
+  * [noble-hashes](https://github.com/paulmillr/noble-hashes) ⭐ 860 | 🐛 4 | 🌐 TypeScript | 📅 2026-05-12 — SHA2, SHA3, RIPEMD, BLAKE2/3, HMAC, HKDF, PBKDF2, Scrypt & Argon2id
+  * [noble-ciphers](https://github.com/paulmillr/noble-ciphers) ⭐ 386 | 🐛 1 | 🌐 TypeScript | 📅 2026-05-12 — cryptographic ciphers, including AES-SIV, Salsa20, ChaCha, Poly1305 and FF1
   * [noble-post-quantum](https://github.com/paulmillr/noble-post-quantum) ⭐ 319 | 🐛 2 | 🌐 TypeScript | 📅 2026-05-12 — ML-KEM, ML-DSA, SLH-DSA (CRYSTALS-Kyber, CRYSTALS-Dilithium, Sphincs+) and hybrids
 * [JShashes](https://github.com/h2non/jshashes) ⭐ 725 | 🐛 9 | 🌐 JavaScript | 📅 2022-05-30 - Fast and dependency-free cryptographic hashing library for Node.js and browsers (supports MD5, SHA1, SHA256, SHA512, RIPEMD, HMAC).
 * [asmCrypto](https://github.com/vibornoff/asmcrypto.js/) ⚠️ Archived - JavaScript implementation of popular cryptographic utilities with performance in mind.
@@ -299,12 +299,12 @@ A curated list of cryptography resources and links.
 
 ### Java
 
-* [Keycloak](https://github.com/keycloak/keycloak) ⭐ 34,399 | 🐛 2,817 | 🌐 Java | 📅 2026-05-15 - Open Source Identity and Access Management For Modern Applications and Services.
+* [Keycloak](https://github.com/keycloak/keycloak) ⭐ 34,419 | 🐛 2,823 | 🌐 Java | 📅 2026-05-16 - Open Source Identity and Access Management For Modern Applications and Services.
 * [pac4j](https://github.com/pac4j/pac4j) ⭐ 2,519 | 🐛 6 | 🌐 Java | 📅 2026-05-14 - Security engine.
 * [Java Themis](https://github.com/cossacklabs/themis/wiki/Java-and-Android-Howto) ⭐ 1,963 | 🐛 31 | 🌐 C | 📅 2026-04-24 - Java/Android wrapper on Themis. High level crypto library for storing data (AES), secure messaging (ECC + ECDSA / RSA + PSS + PKCS#7) and session-oriented, forward secrecy data exchange (ECDH key agreement, ECC & AES encryption).
 * [scrypt](https://github.com/wg/scrypt) ⚠️ Archived - Pure Java implementation of the scrypt key derivation function and a JNI interface to the C implementations, including the SSE2 optimized version.
 * [Password4j](https://github.com/Password4j/password4j) ⭐ 421 | 🐛 10 | 🌐 Java | 📅 2026-04-16 - A Java user-friendly cryptographic library for hashing and checking passwords with different Key derivation functions (KDFs) and Cryptographic hash functions (CHFs).
-* [Google Tink](https://github.com/tink-crypto/tink-java) ⭐ 283 | 🐛 11 | 🌐 Java | 📅 2026-05-14 - A small crypto library that provides a safe, simple, agile and fast way to accomplish some common crypto tasks.
+* [Google Tink](https://github.com/tink-crypto/tink-java) ⭐ 283 | 🐛 11 | 🌐 Java | 📅 2026-05-15 - A small crypto library that provides a safe, simple, agile and fast way to accomplish some common crypto tasks.
 * [securitybuilder](https://github.com/tersesystems/securitybuilder) ⭐ 48 | 🐛 0 | 🌐 Java | 📅 2021-06-26 - Fluent Builder API for JCA/JSSE objects.
 * [GDH](https://github.com/maxamel/GDH) ⭐ 33 | 🐛 5 | 🌐 Java | 📅 2019-10-25 - Generalized Diffie-Hellman key exchange Java library for multiple parties built on top of the Vert.x framework.
 * [Apache Shiro](http://shiro.apache.org/) - Performs authentication, authorization, cryptography and session management.
@@ -376,12 +376,12 @@ A curated list of cryptography resources and links.
 
 ### Rust
 
-* [rustls](https://github.com/ctz/rustls) ⭐ 7,399 | 🐛 84 | 🌐 Rust | 📅 2026-05-14 - Rustls is a new, modern TLS library written in Rust.
-* [BLAKE3](https://github.com/BLAKE3-team/BLAKE3) ⭐ 6,223 | 🐛 180 | 🌐 Assembly | 📅 2026-05-12 - is official Rust and C implementations of the BLAKE3 cryptographic hash function.
+* [rustls](https://github.com/ctz/rustls) ⭐ 7,400 | 🐛 84 | 🌐 Rust | 📅 2026-05-14 - Rustls is a new, modern TLS library written in Rust.
+* [BLAKE3](https://github.com/BLAKE3-team/BLAKE3) ⭐ 6,226 | 🐛 180 | 🌐 Assembly | 📅 2026-05-12 - is official Rust and C implementations of the BLAKE3 cryptographic hash function.
 * [ockam](https://github.com/ockam-network/ockam) ⭐ 4,624 | 🐛 94 | 🌐 Rust | 📅 2026-01-04 - is a Rust library for end-to-end encryption and mutual authentication.
-* [ring](https://github.com/briansmith/ring) ⭐ 4,082 | 🐛 44 | 🌐 Assembly | 📅 2026-05-13 - Safe, fast, small crypto using Rust & BoringSSL's cryptography primitives.
+* [ring](https://github.com/briansmith/ring) ⭐ 4,083 | 🐛 44 | 🌐 Assembly | 📅 2026-05-13 - Safe, fast, small crypto using Rust & BoringSSL's cryptography primitives.
 * [rage](https://github.com/str4d/rage) ⭐ 3,479 | 🐛 63 | 🌐 Rust | 📅 2026-04-22 - is a simple, modern, and secure file encryption tool, using the age format.
-* [hashes](https://github.com/RustCrypto/hashes) ⭐ 2,215 | 🐛 31 | 🌐 Rust | 📅 2026-05-13 - Collection of cryptographic hash functions written in pure Rust.
+* [hashes](https://github.com/RustCrypto/hashes) ⭐ 2,214 | 🐛 30 | 🌐 Rust | 📅 2026-05-15 - Collection of cryptographic hash functions written in pure Rust.
 * [rust-openssl](https://github.com/sfackler/rust-openssl) ⭐ 1,623 | 🐛 341 | 🌐 Rust | 📅 2026-05-10 - OpenSSL bindings for Rust.
 * [rust-crypto](https://github.com/DaGenix/rust-crypto) ⭐ 1,453 | 🐛 110 | 🌐 Rust | 📅 2023-03-20 - Mostly pure-Rust implementation of various cryptographic algorithms.
 * [mundane](https://github.com/google/mundane) ⭐ 1,082 | 🐛 10 | 🌐 Rust | 📅 2023-07-07 - is a Rust cryptography library backed by BoringSSL that is difficult to misuse, ergonomic, and performant.
@@ -395,7 +395,7 @@ A curated list of cryptography resources and links.
 * [webpki](https://github.com/briansmith/webpki) ⭐ 483 | 🐛 109 | 🌐 Rust | 📅 2025-01-21 - Web PKI TLS X.509 certificate validation in Rust.
 * [proteus](https://github.com/wireapp/proteus) ⭐ 419 | 🐛 5 | 🌐 Rust | 📅 2026-04-15 - Axolotl protocol implementation, without header keys, in Rust.
 * [ronkathon](https://github.com/pluto/ronkathon) ⭐ 345 | 🐛 45 | 🌐 Rust | 📅 2025-11-24 - Educational, mathematically transparent, well documentated cryptography in rust.
-* [dryoc](https://github.com/brndnmtthws/dryoc) ⭐ 335 | 🐛 4 | 🌐 Rust | 📅 2026-05-15 - A pure-Rust, general purpose crypto library that implements libsodium primitives.
+* [dryoc](https://github.com/brndnmtthws/dryoc) ⭐ 335 | 🐛 1 | 🌐 Rust | 📅 2026-05-15 - A pure-Rust, general purpose crypto library that implements libsodium primitives.
 * [formats](https://github.com/RustCrypto/formats) ⭐ 319 | 🐛 55 | 🌐 Rust | 📅 2026-05-14 - Cryptography-related format encoders/decoders: DER, PEM, PKCS, PKIX.
 * [cryptoballot](https://github.com/cryptoballot/cryptoballot) ⭐ 223 | 🐛 12 | 🌐 Rust | 📅 2024-08-05 - Cryptographically secure online voting.
 * [recrypt](https://github.com/IronCoreLabs/recrypt-rs) ⭐ 166 | 🐛 6 | 🌐 Rust | 📅 2026-04-16 - A pure-Rust library that implements cryptographic primitives for building a multi-hop Proxy Re-encryption scheme, known as Transform Encryption.
@@ -408,7 +408,7 @@ A curated list of cryptography resources and links.
 
 * [tsec](https://github.com/jmcardon/tsec) ⚠️ Archived - A type-safe, functional, general purpose security and cryptography library.
 * [scrypto](https://github.com/input-output-hk/scrypto) ⭐ 204 | 🐛 4 | 🌐 Scala | 📅 2025-03-18 - Cryptographic primitives for Scala.
-* [recrypt](https://github.com/IronCoreLabs/recrypt) ⭐ 36 | 🐛 0 | 🌐 Scala | 📅 2026-05-13 - Transform encryption library for Scala.
+* [recrypt](https://github.com/IronCoreLabs/recrypt) ⭐ 36 | 🐛 1 | 🌐 Scala | 📅 2026-05-15 - Transform encryption library for Scala.
 
 ### Scheme
 
@@ -471,7 +471,7 @@ A curated list of cryptography resources and links.
 
 ## Contributing
 
-Your contributions are always welcome! Please take a look at the [contribution guidelines](https://github.com/sobolevn/awesome-cryptography/blob/master/CONTRIBUTING.md) ⭐ 6,933 | 🐛 56 | 📅 2025-06-05 first.
+Your contributions are always welcome! Please take a look at the [contribution guidelines](https://github.com/sobolevn/awesome-cryptography/blob/master/CONTRIBUTING.md) ⭐ 6,937 | 🐛 56 | 📅 2025-06-05 first.
 
 ## License
 
