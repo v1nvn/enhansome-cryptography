@@ -23,7 +23,7 @@
             "last_commit": "2024-10-17T18:13:08Z",
             "owner": "pFarb",
             "repo": "awesome-crypto-papers",
-            "stars": 2038
+            "stars": 2039
           }
         },
         {
@@ -109,7 +109,7 @@
             "last_commit": "2026-05-18T09:23:11Z",
             "owner": "cryptomator",
             "repo": "cryptomator",
-            "stars": 15150
+            "stars": 15162
           }
         },
         {
@@ -145,7 +145,7 @@
             "last_commit": "2026-05-08T08:54:23Z",
             "owner": "htrgouvea",
             "repo": "nipe",
-            "stars": 2338
+            "stars": 2339
           }
         },
         {
@@ -158,7 +158,7 @@
             "last_commit": "2026-05-18T17:04:04Z",
             "owner": "getsops",
             "repo": "sops",
-            "stars": 21870
+            "stars": 21879
           }
         },
         {
@@ -223,7 +223,7 @@
             "last_commit": "2026-05-04T08:34:14Z",
             "owner": "jedisct1",
             "repo": "libsodium",
-            "stars": 13687
+            "stars": 13690
           }
         },
         {
@@ -298,7 +298,7 @@
             "last_commit": "2026-05-21T09:15:16Z",
             "owner": "openssl",
             "repo": "openssl",
-            "stars": 30199
+            "stars": 30202
           }
         },
         {
@@ -329,7 +329,7 @@
             "last_commit": "2026-04-24T14:01:56Z",
             "owner": "cossacklabs",
             "repo": "themis",
-            "stars": 1964
+            "stars": 1965
           }
         },
         {
@@ -355,7 +355,7 @@
             "last_commit": "2026-05-22T15:28:42Z",
             "owner": "wolfSSL",
             "repo": "wolfssl",
-            "stars": 2827
+            "stars": 2829
           }
         },
         {
@@ -381,7 +381,7 @@
             "last_commit": "2026-04-13T13:14:32Z",
             "owner": "Cyan4973",
             "repo": "xxHash",
-            "stars": 11031
+            "stars": 11032
           }
         }
       ],
@@ -418,7 +418,7 @@
             "last_commit": "2026-05-20T09:35:19Z",
             "owner": "weidai11",
             "repo": "cryptopp",
-            "stars": 5457
+            "stars": 5458
           }
         },
         {
@@ -449,7 +449,7 @@
             "last_commit": "2026-05-22T22:13:15Z",
             "owner": "aws",
             "repo": "s2n-tls",
-            "stars": 4722
+            "stars": 4723
           }
         }
       ],
@@ -811,7 +811,7 @@
             "last_commit": "2026-04-24T14:01:56Z",
             "owner": "cossacklabs",
             "repo": "themis",
-            "stars": 1964
+            "stars": 1965
           }
         },
         {
@@ -821,7 +821,7 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-05-09T17:40:56Z",
+            "last_commit": "2026-05-23T12:19:48Z",
             "owner": "dedis",
             "repo": "kyber",
             "stars": 697
@@ -960,7 +960,7 @@
             "last_commit": "2024-08-09T08:16:59Z",
             "owner": "brix",
             "repo": "crypto-js",
-            "stars": 16391
+            "stars": 16392
           }
         },
         {
@@ -986,7 +986,7 @@
             "last_commit": "2026-03-25T20:58:31Z",
             "owner": "digitalbazaar",
             "repo": "forge",
-            "stars": 5299
+            "stars": 5300
           }
         },
         {
@@ -1035,7 +1035,7 @@
             "last_commit": "2026-04-08T09:02:21Z",
             "owner": "travist",
             "repo": "jsencrypt",
-            "stars": 6798
+            "stars": 6799
           }
         },
         {
@@ -1074,7 +1074,7 @@
             "last_commit": "2026-04-24T14:01:56Z",
             "owner": "cossacklabs",
             "repo": "themis",
-            "stars": 1964
+            "stars": 1965
           }
         },
         {
@@ -1141,7 +1141,7 @@
                 "last_commit": "2026-05-12T21:46:16Z",
                 "owner": "paulmillr",
                 "repo": "noble-ciphers",
-                "stars": 387
+                "stars": 388
               }
             },
             {
@@ -1154,7 +1154,7 @@
                 "last_commit": "2026-05-14T14:28:03Z",
                 "owner": "paulmillr",
                 "repo": "noble-curves",
-                "stars": 909
+                "stars": 910
               }
             },
             {
@@ -1180,7 +1180,7 @@
                 "last_commit": "2026-05-12T21:49:27Z",
                 "owner": "paulmillr",
                 "repo": "noble-post-quantum",
-                "stars": 325
+                "stars": 326
               }
             }
           ],
@@ -1192,7 +1192,7 @@
             "last_commit": "2026-05-12T21:46:16Z",
             "owner": "paulmillr",
             "repo": "noble-ciphers",
-            "stars": 387
+            "stars": 388
           }
         },
         {
@@ -1205,7 +1205,7 @@
             "last_commit": "2026-04-14T10:58:59Z",
             "owner": "kelektiv",
             "repo": "node.bcrypt.js",
-            "stars": 7800
+            "stars": 7803
           }
         },
         {
@@ -1257,7 +1257,7 @@
             "last_commit": "2026-03-18T21:29:06Z",
             "owner": "bitwiseshiftleft",
             "repo": "sjcl",
-            "stars": 7217
+            "stars": 7216
           }
         },
         {
@@ -1343,7 +1343,7 @@
             "last_commit": "2026-04-24T14:01:56Z",
             "owner": "cossacklabs",
             "repo": "themis",
-            "stars": 1964
+            "stars": 1965
           }
         },
         {
@@ -1358,10 +1358,10 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-05-23T02:40:42Z",
+            "last_commit": "2026-05-24T03:08:49Z",
             "owner": "keycloak",
             "repo": "keycloak",
-            "stars": 34518
+            "stars": 34529
           }
         },
         {
@@ -1572,7 +1572,7 @@
             "last_commit": "2026-04-24T14:01:56Z",
             "owner": "cossacklabs",
             "repo": "themis",
-            "stars": 1964
+            "stars": 1965
           }
         },
         {
@@ -1648,7 +1648,7 @@
             "last_commit": "2026-04-24T14:01:56Z",
             "owner": "cossacklabs",
             "repo": "themis",
-            "stars": 1964
+            "stars": 1965
           }
         },
         {
@@ -1812,7 +1812,7 @@
             "last_commit": "2026-04-29T12:21:54Z",
             "owner": "pyca",
             "repo": "pynacl",
-            "stars": 1191
+            "stars": 1192
           }
         },
         {
@@ -1825,7 +1825,7 @@
             "last_commit": "2026-04-24T14:01:56Z",
             "owner": "cossacklabs",
             "repo": "themis",
-            "stars": 1964
+            "stars": 1965
           }
         }
       ],
@@ -1844,7 +1844,7 @@
             "last_commit": "2026-03-27T19:38:11Z",
             "owner": "bcrypt-ruby",
             "repo": "bcrypt-ruby",
-            "stars": 1975
+            "stars": 1977
           }
         },
         {
@@ -1870,7 +1870,7 @@
             "last_commit": "2026-04-24T14:01:56Z",
             "owner": "cossacklabs",
             "repo": "themis",
-            "stars": 1964
+            "stars": 1965
           }
         }
       ],
@@ -1902,7 +1902,7 @@
             "last_commit": "2026-05-21T23:53:15Z",
             "owner": "BLAKE3-team",
             "repo": "BLAKE3",
-            "stars": 6239
+            "stars": 6240
           }
         },
         {
@@ -2011,7 +2011,7 @@
             "last_commit": "2026-01-04T22:01:38Z",
             "owner": "build-trust",
             "repo": "ockam",
-            "stars": 4625
+            "stars": 4626
           }
         },
         {
@@ -2076,7 +2076,7 @@
             "last_commit": "2026-04-22T03:26:14Z",
             "owner": "str4d",
             "repo": "rage",
-            "stars": 3497
+            "stars": 3503
           }
         },
         {
@@ -2330,7 +2330,7 @@
             "last_commit": "2026-04-22T18:49:30Z",
             "owner": "krzyzanowskim",
             "repo": "CryptoSwift",
-            "stars": 10553
+            "stars": 10554
           }
         },
         {
@@ -2400,7 +2400,7 @@
             "last_commit": "2026-04-24T14:01:56Z",
             "owner": "cossacklabs",
             "repo": "themis",
-            "stars": 1964
+            "stars": 1965
           }
         }
       ],
@@ -2423,7 +2423,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-05-23T05:40:51.204Z",
+    "last_updated": "2026-05-24T06:03:27.040Z",
     "original_repository": "sobolevn/awesome-cryptography",
     "source_repository": "v1nvn/enhansome-cryptography",
     "source_repository_description": null,
